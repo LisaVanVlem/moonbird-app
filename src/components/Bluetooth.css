@@ -1,0 +1,21 @@
+.bluetooth {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bluetoothIcon {
+  color: var(--dark);
+  height: 18px;
+  width: auto;
+  position: absolute;
+  top: 12.5px;
+  left: 17px;
+}
+
+.bluetoothCircle {
+  position: relative;
+}
